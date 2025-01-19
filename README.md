@@ -1,2 +1,2 @@
-# ImageCaptioningModel
-Its a deep learning project which caption the given image.
+# ImageCaptioningModel - with google Collab
+Its a deep learning project which generate the caption for the given image.
