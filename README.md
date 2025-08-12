@@ -1,2 +1,2 @@
-# ImageCaptionGeneratingModel - with google Collab
+# ImageCaptionGeneratingModel - with google Colab
 This project implements an Image Caption Generator using deep learning techniques. It employs the DenseNet architecture for feature extraction and integrates a sequence model for caption generation. The model is trained on the Flickr dataset and deployed using Google Colab, providing a streamlined platform for generating descriptive captions for images.
